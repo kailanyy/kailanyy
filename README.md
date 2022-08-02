@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Kailany
 
 - 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
-- 💬 Contate-me pelo email: kailanyiaramenco@gmail.com
 
 <div display: inline_block>
 <a href = "https://github.com/kailanyy">
