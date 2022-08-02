@@ -4,9 +4,9 @@
 - 💬 Contate-me pelo email: kailanyiaramenco@gmail.com
 
 <div display: inline_block>
-<a href = "https://github.com/steflemos">
-<img height="162em" src="https://github-readme-stats.vercel.app/api?username=steflemos&show_icons=true&theme=radical">
-<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steflemos&layout=compact&theme=radical ">
+<a href = "https://github.com/kailanyy">
+<img height="162em" src="https://github-readme-stats.vercel.app/api?username=kailanyy&show_icons=true&theme=radical">
+<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailanyy&layout=compact&theme=radical ">
 
 </div>
 
