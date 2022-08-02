@@ -1,4 +1,4 @@
-## Olá! Eu sou a Kailany
+## Oii! Eu sou a Kailany :)
 
 - 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
 
