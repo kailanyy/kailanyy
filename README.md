@@ -1,4 +1,4 @@
-## Olá! Eu sou a Stéfani
+## Olá! Eu sou a Kailany
 
 - 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
 - 💬 Contate-me pelo email: kailanyiaramenco@gmail.com
