@@ -1,14 +1,5 @@
 ## Oii! Eu sou a Kailany :)
 
-- 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
-
-<div display: inline_block>
-<a href = "https://github.com/kailanyy">
-<img height="162em" src="https://github-readme-stats.vercel.app/api?username=kailanyy&show_icons=true&theme=dracula">
-<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailanyy&layout=compact&langs_count=7&theme=dracula">
-
-</div>
-
 <div style="display: inline_block"><br>
 
 <h3>♦ Languages </h3>
@@ -20,7 +11,6 @@
 <img align = "center" alt = "kai-mysql" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align = "center" alt = "kai-postgresql" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align = "center" alt = "kai-nodejs" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align = "right" alt = "kai-img" height = "150" width = "150" src = "https://i.picasion.com/pic92/52e81e9d20fe79759c3e16fed9bef947.gif">
 </div>
 
 
